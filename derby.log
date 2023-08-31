@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Feb 25 18:16:04 WAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0186-8993-16ef-00000f56b360 
+on database directory memory:/home/tiburce/javaProject/junit-rest-api-application/f59832d0-4c21-4749-8196-b1573ac5acf9 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/tiburce/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_352-8u352-ga-1~20.04-b08
+user.dir=/home/tiburce/javaProject/junit-rest-api-application
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

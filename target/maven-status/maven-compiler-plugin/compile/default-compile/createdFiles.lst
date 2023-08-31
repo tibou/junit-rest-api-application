@@ -1,0 +1,4 @@
+com/rest/app/BookRepository.class
+com/rest/app/Book.class
+com/rest/app/RestApiApplication.class
+com/rest/app/RessourceNotFoundException.class
